@@ -1,0 +1,14 @@
+{
+  "name": "tourproject",
+  "version": "1.0.0",
+  "description": "tourproject",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "NamDo",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
